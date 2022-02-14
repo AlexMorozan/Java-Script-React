@@ -1,4 +1,7 @@
 'use strict';
-let age = +prompt("сколько вам лет?");
-alert("вам " + age +" лет");
-alert("вам " + age +" лет");
+if (2*4==9){
+    console.log("aga, tag i bilo");
+} else {
+    console.log("pizdezh");
+}
+(2*4==45) ? console.log("aga, tag i bilo") : console.log("pizdezh");
